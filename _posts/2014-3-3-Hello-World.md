@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: First Post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is a placeholder for a re-designed website for the 2016-17 season for Panther Robotics.  I want to migrate the Wordpress blog at <http://www.pantherrobotics.com> here and make the site theme updated.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Right now I am using the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub for style but want to learn how to modify the base style.  I look to sites like <csswizardry.com> for inspiration.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+//![_config.yml]({{ site.baseurl }}/images/config.png)
