@@ -1,5 +1,6 @@
 ---
-published: false
+layout: posts
+title: Summer Projects
 ---
 ## Summer Projects
 
