@@ -2,7 +2,6 @@
 layout: post
 title: Summer Code Series v.0.0.1
 ---
-# Summer code series v.0.0.1
 ## Hello World
 
 Building your own website not only is a rite of passage, but is a medium for expressing yourself and your projects.  Recording what you do is a central aspect of science.  So for the first summer code project I invite you to create your own website.  I will give some helpful tips but creativity is encouraged.
