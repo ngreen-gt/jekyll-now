@@ -1,6 +1,6 @@
 ---
-published: false
-display: post
+layout: post
+title: Summer Code Series v.0.0.1
 ---
 # Summer code series v.0.0.1
 ## Hello World
