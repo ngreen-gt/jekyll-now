@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Summer Code Series v.0.0.1
+published: true
 ---
 ## Hello World
 
@@ -34,5 +35,9 @@ Going further:
 ## Goal
 
 Follow through with the steps by **July 15th**.
+
+## Game Trophies
+
+TBA
 
 
