@@ -1,9 +1,12 @@
 ---
 published: false
 ---
-In this summer code session, you'll learn about Tableau, a program for making interactive visualizations from tabular data.  It was used to help with scouting and a few free copies were given to teams.  
+In this summer code session, you'll make a custom map using **Tableau**, interactive visualization software.  The skills learned will be introductory topics in data science.
+
 
 # A Tableau for Two
+
+
 
 Starting out we will talk briefly about data tables.  Tables are a natural way to organize data.  There are other ways such a relational databases but table data is the simplest way.
 
@@ -33,6 +36,34 @@ There are many programs that help create visualizations from
 
 
 Mapping is an old skill 
+
+
+# The Steps
+
+* Install
+
+**Beyond the Basics**
+
+* Use Mapbox to add a custom map ( )
+* Add action filters to map ( )
+* Publish your map on Tableau Public ( )
+
+
+## Goals
+
+* Create a custom map using Tableau
+* Share date is **July 20th**
+
+## Prizes
+
+* Top two given a licensed copies (through Dec) of Tableau
+
+## Game Trophies
+
+* Master of Tables
+* Mapmaker
+
+
 
 
 ## A Tableau for Two
