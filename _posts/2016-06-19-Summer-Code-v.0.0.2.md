@@ -1,6 +1,41 @@
 ---
 published: false
 ---
+## Skinny Tableau
+
+We are making a map using Tableau!
+
+Tableau is a data visualization tool.  We are using it because they sponsored copies to FIRST teams.
+
+## Get Tableau
+
+You can download a 14 day trial from <http://www.tableau.com/products/desktop/download>.  If you make the best map, I'll get you a product code.
+
+## Find some data
+
+
+
+## Get Mapbox
+
+
+
+
+
+
+Getting into data analysis can be daunting, but starting with simple tasks you'll find it isn't that difficult.  If stuck, there are so many resources online.  I'll list some in [Resources](http://frc1108.github.io/2016-06-19-Summer-Code-v.0.0.2.html#resources).
+
+The purpose of data analysis is to help when making decisions.  In FIRST, picking other teams for the playoffs is an important decision.  Most teams rely on data from earlier matches to decide which teams they are best with.  
+Getting to use the data science toolkit
+Getting into programming can be daunting because of the sometimes steep learning curve.  There are many different possible programming languages and programs.  Data science is a 
+
+## Overview
+
+
+
+In this code session, you'll be introduced to data analysis software.  The task is making a custom map visualization using **Tableau**.
+
+Many different programs can be used to analyze and visualize data.  In FIRST, many individuals have developed scouting workflows.  A workflow is just a combination of steps that you take to   
+
 In this summer code session, you'll make a custom map using **Tableau**, interactive visualization software.  The skills learned will be introductory topics in data science.
 
 
@@ -38,7 +73,9 @@ There are many programs that help create visualizations from
 Mapping is an old skill 
 
 
-# The Steps
+## The Steps
+
+* Download 
 
 * Install
 
@@ -62,12 +99,3 @@ Mapping is an old skill
 
 * Master of Tables
 * Mapmaker
-
-
-
-
-## A Tableau for Two
-
-From early day cartographers have represented the physical world in visual representations.  
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
