@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Summer Projects
+published: true
 ---
 ## Summer Projects
 
@@ -20,3 +21,5 @@ I wanted to list what project ideas that have been mentioned.
 12. Graphical design skills
 
 That is just a short list of all that is possible.
+<!--more-->
+
