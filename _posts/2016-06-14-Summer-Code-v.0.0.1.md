@@ -6,6 +6,7 @@ published: true
 ## Hello World
 
 Building your own website not only is a rite of passage, but is a medium for expressing yourself and your projects.  Recording what you do is a central aspect of science.  So for the first summer code project I invite you to create your own website.  I will give some helpful tips but creativity is encouraged.
+<!--more-->
 
 ## Like a Hacker
 
@@ -32,6 +33,8 @@ Going further:
 * Write a post using different markdown features
 * Make changes to the Jekyll files (HTML/CSS)
 
+
+
 ## Goal
 
 Follow through with the steps by **July 15th**.
@@ -39,5 +42,3 @@ Follow through with the steps by **July 15th**.
 ## Game Trophies
 
 TBA
-
-
