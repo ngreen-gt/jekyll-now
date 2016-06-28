@@ -5,8 +5,6 @@ permalink: /about/
 published: true
 ---
 
-## About this site
-
 Our GitHub pages website is made with Jekyll and a clone of the Jekyll-Now project. The source is public at <http://frc1108.github.com/frc1108.github.io>.  This site is a working laboratory designed to teach various tools in data science, programming, and web development.  
 
 Our main site is <http://www.pantherrobotics.com>.
