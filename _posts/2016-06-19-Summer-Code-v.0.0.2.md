@@ -1,7 +1,18 @@
 ---
 published: false
 ---
-## Skinny Tableau
+## Exploring data in Tableau
+
+Tableau has some nice features for looking at data.  It is more interactive than some other tools.  They've also donated copies to FIRST.  Using it last year helped to explore the scouting data in real-time.  Other software or programming languages have steeper learning curves or don't allow data to be explored as rapidly.
+
+Getting familiar with the software will take some time.  
+Scouting is the main reason to become familiar with data tools in FIRST.  But a secondary reason is because "big data" is a trend in business and engineering.  Getting familiar will help no matter what careers you pick.
+
+Spreadsheets, like Excel, have been important for organizing and drawing conclusions from data for over 25 years.  Other business spreadsheets like Lotus 123 preceded Excel.  Being familiar with spreadsheets 
+
+
+Scouting is an importa
+Tableau helped with exploring the data available on 
 
 We are making a map using Tableau!
 
