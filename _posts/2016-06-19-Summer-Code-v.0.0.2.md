@@ -1,7 +1,21 @@
 ---
 published: false
 ---
+Let's not worry too much about background.  But we want to take data and make it useful to us.  Later on we'll need to decide how to pick teams when we are competing, and some practice will prepare you for it.
+
+We are using Tableau.  In part because it was donated to teams, but it also is a interesting tool for visualization and understanding data.
+
+I'll have you download the trial and those that do well I'll get copies of the license, so that you can continue to use it.  You can download the trial at [http://www.tableau.com](http://www.tableau.com).
+
 ## Exploring data in Tableau
+
+Once you have it installed you can start into it.  I have three mini-tasks for you that you can expand to do custom work. If you have questions you can find many resources online or ask me for some guidance.
+
+**Task 1:**  Build a map using sample data (or provide your own).
+
+**Task 2:**  Download the dataBuild a map using sample data (or provide your own).
+
+
 
 Tableau has some nice features for looking at data.  It is more interactive than some other tools.  They've also donated copies to FIRST.  Using it last year helped to explore the scouting data in real-time.  Other software or programming languages have steeper learning curves or don't allow data to be explored as rapidly.
 
