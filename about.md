@@ -11,7 +11,35 @@ Our main site is <http://www.pantherrobotics.com>.
 
 Our scouting and developer groups learn some of the basics of computer language, websites, data analysis, and robotic programming.  
 
-## Roadmap for 2017 season
+## Roadmap for 2017 season (Scouting & Development)
+
+At the start of a season, we set goals for the SD group.  For 2017, we have five ideas:
+
+* Everyone can learn a skill
+* We expect skills to progress
+* Bring on the inspiration
+* Data science is engineering
+* Beyond the minimum standards
+
+### Everyone can learn a skill
+Having opportunities to learn a new computer skill is important for the development of every team member, and should begin in their first year.  Having this experience is something to build upon for some to become skillful for their future.  For others that might not find a passion, they will gain in technical literacy important to modern life for all people. more literate with technologyginning in the first year, all members should all have some time in computer task.  It wStarting from the first-year, having practice and exposure to scouting and developing tools will only make better thinkers and analysts.  These skills will   We should give opportunities to learn a skill.  Even those without thoughts of future careers will benefit from the experienc
+Getting these broad goals into a more specific program is the purpose of a roadmap.  setting new organizational goals for each working group.  For the scouting and programming groups, we want the 2017 season to reset our previous thinking and challenge students to be inspired by these tasks.
+
+Generally, questions relevant to these goals are: 
+
+* What should student learn in FIRST?
+* What should the organization structure be?
+
+More specifically some details can be filled in:
+
+* What languga
+More specifically we
+Determining what 
+What students should get from this program and how to achieve that from better organization is the purpose of this roadmap.  Students should have the opportunity to progress in abilities with 
+Practicing programming or data analysis teaches 
+Learning a new programming language or skill sometimes en
+
+Initial planning for the 2017 scouting and programming groups.  These skills are developed over time and getting new and old members up to speed and inspired to learn more about a language or skill is the goal of the team.  Leading up to build season we want to give opportunities to practice relevant skills.
 
 One idea is to make a simple roadmap outlining the goals for the year in scouting and developing groups.  These skills take time to learn and practice and are best done in the months leading up to build season.  Setting realistic goals for the year is a real challenge and important to the success of these groups.
 
