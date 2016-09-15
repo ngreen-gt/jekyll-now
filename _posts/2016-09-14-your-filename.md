@@ -17,6 +17,15 @@ I'm of belief that all students need a computer skill.  Programming is great and
 We don't have a coding philosophy on 1108 and that is okay. haven't yet came to a coding philosophy on 1108.  There are programming tasks for students of all levels from noobs to gurus.  We start with a
 
 
+## Resources for programming
+
+https://wpilib.screenstepslive.com/s/4485/m/13810
+
+## 1108 sites
+
+https://github.com/frc1108/
+https://frc1108.slack.com/
+https://frc1108.wordpress.com/
 
 
 ## A New Post
